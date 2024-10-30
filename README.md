@@ -1,3 +1,6 @@
+# Discord SYNC functionality was implemented a few years ago this repo isn't useful anymore !!!
+
+
 # Dowload your Faved Discord gifs easily
 
 Hi! This python module download your faved Discord gifs in a folder in your Downloads folder, Currently it is only tested on windows but work for almost any Gifs
